@@ -4,6 +4,9 @@ Design hypothesis:
 
 The design hypothesis for this game is to explore how the snake game can be explored further from its original design and concept. This game combines two different classic games which are the snake game and find the difference. The find the difference is where the player will have to find the different cube on the pattern full floor to move on to the next level. As the player levels up, finding the cube will become harder and harder along aside with a faster movement of the character. 
 
+Citation:
+https://www.youtube.com/watch?v=iuz7aUHYC_E 
+
 
 Design Journal Entries:
 
