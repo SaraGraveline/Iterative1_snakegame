@@ -1,6 +1,6 @@
 # Iterative1_snakegame - Iterative 2 - Iterative 3
  
-Design hypothesis:
+Design hypothesis 1:
 
 The design hypothesis for this game is to explore how the snake game can be explored further from its original design and concept. This game combines two different classic games which are the snake game and find the difference. The find the difference is where the player will have to find the different cube on the pattern full floor to move on to the next level. As the player levels up, finding the cube will become harder and harder along aside with a faster movement of the character. 
 
@@ -72,9 +72,9 @@ Reflection on the result of the playtester:
 The playtester was very helpful since it give me a lot of different ideas on how to improve this game and make it more interesting and engaging. The result of the design hypothesis was good. The 'snake game' and 'finding the difference' game combination is a good idea. It will give much more depth to different levels. The big outcome of the playtest was the concept of having different floor shapes for different levels. I think this would make the game more enjoyable and exciting. It will create interesting camera angles too if I can figure out how to do that. 
 
 
-# Iterative1_snakegame - Iterative 2 - Iterative 3
+# Iterative 2 - Iterative 3
  
-Design hypothesis 1:
+Design hypothesis 2:
 
 The design hypothesis for this game is to explore how the snake game can be explored further from its original design and concept. This game combines two different classic games which are the snake game and find the difference. The find the difference is where the player will have to find the different cube on the pattern full floor to move on to the next level. As the player levels up, finding the cube will become harder and harder along aside with a faster movement of the character. 
 
