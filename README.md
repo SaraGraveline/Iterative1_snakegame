@@ -177,3 +177,15 @@ Playtester 4:
 - There should be some sort of motivation for the user to keep on playing. 
 - But having the camera as the first player would be better since you can control where you see.
 
+Reflection on the result of the playtester:
+All of the player believed that having the first view camera would be better so the player could control how and what they see. I think I would try to create the first view camera because I do agree with them and it will create more interest in finding the different square. I also like one of the comment where instead of moving to different level, why not just fall into that level. 
+
+<hr>
+
+# Iterative 3
+ 
+Design hypothesis 3:
+The design hypothesis for this iterative is to see how the user react to different shapes of levels. If it is easier to move between them and is to too complicated to nevigate. 
+
+Design Journal Entries:
+
